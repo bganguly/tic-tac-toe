@@ -9,6 +9,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+![Screen Shot 2022-03-03 at 8 40 16 AM](https://user-images.githubusercontent.com/627740/156610041-59b38fba-8868-4b5f-b355-7cd1cbe329c4.png)
+
+
 ### improvements - TBD ###
 - Display the location for each move in the format (col, row) in the move history list.
 - Bold the currently selected item in the move list.
